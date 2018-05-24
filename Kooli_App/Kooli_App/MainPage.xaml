@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Kooli_App"
+             x:Class="Kooli_App.MainPage">
+
+    <NavigationPage Title="Tutvustus" BarTextColor="White" BarBackgroundColor="#143158">
+        <x:Arguments>
+            <local:IntroductionPage/>
+        </x:Arguments>
+    </NavigationPage>
+    
+    <NavigationPage Title="Uudised" BarTextColor="White" BarBackgroundColor="#143158">
+        <x:Arguments>
+            <local:newsPage/>
+        </x:Arguments>
+    </NavigationPage>
+
+    <NavigationPage Title="Kasulikud Lingid" BarTextColor="White" BarBackgroundColor="#143158"> 
+        <x:Arguments>
+            <local:UsefullLinks />
+        </x:Arguments>
+    </NavigationPage>
+    
+    <NavigationPage Title="Tunniplaan" BarTextColor="White" BarBackgroundColor="#143158"> 
+        <x:Arguments>
+            <local:planPage />
+        </x:Arguments>
+    </NavigationPage>
+    
+    <NavigationPage Title="Tunni toimumis ajad" BarTextColor="White" BarBackgroundColor="#143158"> 
+        <x:Arguments>
+            <local:classView />
+        </x:Arguments>
+    </NavigationPage>
+
+</TabbedPage>

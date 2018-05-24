@@ -1,0 +1,9 @@
+D:\Documents\Projektid\Kooli_App\Kooli_App\Kooli_App\bin\Debug\netstandard2.0\Kooli_App.deps.json
+D:\Documents\Projektid\Kooli_App\Kooli_App\Kooli_App\bin\Debug\netstandard2.0\Kooli_App.dll
+D:\Documents\Projektid\Kooli_App\Kooli_App\Kooli_App\bin\Debug\netstandard2.0\Kooli_App.pdb
+D:\Documents\Projektid\Kooli_App\Kooli_App\Kooli_App\obj\Debug\netstandard2.0\Kooli_App.csprojAssemblyReference.cache
+D:\Documents\Projektid\Kooli_App\Kooli_App\Kooli_App\obj\Debug\netstandard2.0\Kooli_App.csproj.CoreCompileInputs.cache
+D:\Documents\Projektid\Kooli_App\Kooli_App\Kooli_App\obj\Debug\netstandard2.0\Kooli_App.AssemblyInfoInputs.cache
+D:\Documents\Projektid\Kooli_App\Kooli_App\Kooli_App\obj\Debug\netstandard2.0\Kooli_App.AssemblyInfo.cs
+D:\Documents\Projektid\Kooli_App\Kooli_App\Kooli_App\obj\Debug\netstandard2.0\Kooli_App.dll
+D:\Documents\Projektid\Kooli_App\Kooli_App\Kooli_App\obj\Debug\netstandard2.0\Kooli_App.pdb

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Kooli_App.UsefullLinks">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Kasulikud lingid" HorizontalOptions="Center" VerticalOptions="StartAndExpand" FontAttributes="Bold" FontSize="Large" />
+            <Button Text="Siseveeb" Clicked="siseveebClick" VerticalOptions="FillAndExpand" BackgroundColor="#143158" TextColor="White"/>
+            <Button Text="Õppetöö graafik" Clicked="graafikClick" VerticalOptions="FillAndExpand" BackgroundColor="#143158" TextColor="White"/>
+            <Button Text="Huviringid" Clicked="huviClick" VerticalOptions="FillAndExpand" BackgroundColor="#143158" TextColor="White"/>
+            <Button Text="Õppetoetused" Clicked="toetusedClick" VerticalOptions="FillAndExpand" BackgroundColor="#143158" TextColor="White"/>
+            <Button Text="Sisekorraeeskiri" Clicked="eeskordClick" VerticalOptions="FillAndExpand" BackgroundColor="#143158" TextColor="White"/>
+            <Button Text="Kirjalike tööde vormistamise juhend" Clicked="vormistamineClick" VerticalOptions="FillAndExpand" BackgroundColor="#143158" TextColor="White"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
